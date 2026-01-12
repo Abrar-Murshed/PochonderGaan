@@ -1,0 +1,14 @@
+data/
+*.pkl
+*.h5
+*.npy
+*.npz
+*.pt
+*.pth
+results/models/
+__pycache__/
+*.pyc
+.DS_Store
+*.aux
+*.log
+*.out
