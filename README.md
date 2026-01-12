@@ -6,17 +6,6 @@
 
 > **Unsupervised music genre clustering using Variational Autoencoders (VAE) for hybrid language music analysis**
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Project Overview](#project-overview)
-- [Results](#results)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [Experiments](#experiments)
-- [Usage](#usage)
-- [License](#license)
 
 ## ✨ Features
 - **Multiple VAE Architectures**: Base VAE, Beta-VAE (β=4.0), and Conditional VAE
